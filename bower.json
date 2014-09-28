@@ -1,0 +1,18 @@
+{
+  "name": "angular-swiper-repeat",
+  "version": "0.1.1",
+  "authors": [
+    "ibtkvi <ibtkvi@gmail.com>"
+  ],
+  "description": "Swiper for AngularJS",
+  "main": "swiperRepeat.js",
+  "keywords": [
+    "angular",
+    "swiper"
+  ],
+  "dependencies": {
+    "angular": "^1.2.1",
+  },
+  "license": "MIT",
+  "ignore": []
+}
